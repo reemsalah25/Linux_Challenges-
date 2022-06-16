@@ -1,0 +1,5 @@
+First Challenge "1337 SSH":
+$cd ..
+$cd ..
+$cat opt/banner
+flag{Welcome_to_the_shell}
