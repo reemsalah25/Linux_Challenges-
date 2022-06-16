@@ -1,0 +1,8 @@
+$ cd /tmp/test1
+$ ls
+$ cd /tmp/test1/test2
+$ cd /tmp/test1//test2/test3
+$ cd /tmp/test1//test2/test3/test4
+$ cd /tmp/test1//test2/test3/test4/test5 -a
+$ cat .flag.txt
+flag{wh4t_4_w0nd3rfuL_fL4g}
