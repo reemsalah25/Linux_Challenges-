@@ -1,0 +1,11 @@
+1- "remove" Challenge:
+rm ~/secret
+
+2-"M45T3R" Challenge:
+cd ..
+cd ..
+ls
+cd tmp
+ls
+cd Iam_The_Flag.txt
+flag{D0_y0u_pr3f3r_L1nux}
