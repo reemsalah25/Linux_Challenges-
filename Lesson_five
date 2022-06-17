@@ -1,0 +1,6 @@
+5-File Operations » Grep Master:
+
+$cd /tmp/
+$cat /tmp/linux_2_1.txt | grep "flag" -i
+
+FLAG{Grep_Are_Very_Useful}
